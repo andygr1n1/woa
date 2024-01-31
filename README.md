@@ -7,7 +7,6 @@ yarn add world of andygrini
 > 🧑‍🚀 **Hey there, astronaut, take a look at your trip**
 
 ```text
-
 ├── welcome/
 │   └── biography
 ├── about/
@@ -20,4 +19,15 @@ yarn add world of andygrini
 │   └── ai/
 │       └── chatGPT
 └── projects
+```
+
+##info
+
+```text
+To add in this app all info related to creating my portfolio site and CV.
+```
+
+```sh
+https://docs.astro.build/en/concepts/why-astro/
+https://yoola.com/
 ```
