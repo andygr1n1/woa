@@ -4,10 +4,10 @@
 yarn add world of andygrini
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?**
+> 🧑‍🚀 **Hey there, astronaut, take a look at your trip**
 
 ```text
-/
+
 ├── welcome/
 │   └── biography
 ├── about/
